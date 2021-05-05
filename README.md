@@ -10,7 +10,7 @@
        - **Auto Regression**
        - **ARIMA Regression**
        - **Auto ARIMA**
-       - 
+ 
    - 1.2 **CLASSIFICATION**
        -  **Logistic Regression**
        - **Multinomial Logistic Regression**
