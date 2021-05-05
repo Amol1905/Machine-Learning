@@ -10,7 +10,7 @@ INDEX
          Ridge Regression
          Auto Regression
          ARIMA Regression
-         Auto ARIMA
+         Auto ARIMA 
          Logistic Regression
          Multinomial Logistic Regression
          KNN Algorithm
