@@ -10,10 +10,11 @@
        - **Auto Regression**
        - **ARIMA Regression**
        - **Auto ARIMA**
-       - **Logistic Regression**
+       - 
+   - 1.2 **CLASSIFICATION**
+       -  **Logistic Regression**
        - **Multinomial Logistic Regression**
        - **KNN Algorithm**
-   - 1.2 **CLASSIFICATION**
        - **svm**
        - **Naive Byes**
        - **Decision Tree**
