@@ -37,3 +37,6 @@
    - **PCA**
    - **SVD**
    
+**4. ML Projects**
+  - **Linear Regression**
+  - **Time Series**
