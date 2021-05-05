@@ -33,7 +33,7 @@
           - **Divisive**
        - **DBCSAN**
        
-**3. Dimensional Reduction Technique**
+**3. Dimensional Reduction Techniques**
    - **PCA**
    - **SVD**
    
