@@ -7,7 +7,7 @@
        - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/Regression/Polynomial%20Regression.ipynb'>**Polynomial Regression**</a>
        - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/Regression/Lasso%20and%20Ridge%20ElasticNet%20Regression.ipynb'>**Lasso Regression And Rigde Regression**</a>
        - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/Regression/AR%20Forecasting%20Model%20Fitting.ipynb'>**Auto Regression**</a>
-       - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/Regression/ARIMA%20Model%20Fitting%20and%20Prediction.ipynb'>**ARIMA and Auto ARIMA Regression **</a>
+       - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/Regression/ARIMA%20Model%20Fitting%20and%20Prediction.ipynb'>**ARIMA and Auto ARIMA Regression**</a>
        - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/classification/Logistic_Regression_on_Diabetes_Dataset.ipynb'>**Logistic Regression**</a>
        - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/classification/Multinomial_Logistic_Regression.ipynb'>**Multinomial Logistic Regression**</a>
        - <a href = 'https://github.com/Amol1905/Machine-Learning/blob/master/Supervised/classification/KNN_on_Advertise_Purchase_Dataset.ipynb'>**KNN Algorithm**</a>
